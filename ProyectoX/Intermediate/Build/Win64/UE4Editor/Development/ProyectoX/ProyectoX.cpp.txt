@@ -1,0 +1,2 @@
+C:\Users\Usuario\Downloads\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\Definitions.ProyectoX.h
+C:\Users\Usuario\Downloads\ProyectoX\ProyectoX\Source\ProyectoX\ProyectoX.h
