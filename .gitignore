@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+ProyectoX/Saved/Crashes/UE4CC-Windows-2FDC915B4189D145B072A0A05673064B_0000/CrashContext.runtime-xml
+ProyectoX/Saved/Crashes/UE4CC-Windows-2FDC915B4189D145B072A0A05673064B_0000/CrashReportClient.ini
+ProyectoX/Saved/Crashes/UE4CC-Windows-2FDC915B4189D145B072A0A05673064B_0000/UE4Minidump.dmp
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0000/CrashContext.runtime-xml
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0000/CrashReportClient.ini
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0000/UE4Minidump.dmp
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0001/CrashContext.runtime-xml
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0001/CrashReportClient.ini
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0001/UE4Minidump.dmp
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0002/CrashContext.runtime-xml
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0002/CrashReportClient.ini
+ProyectoX/Saved/Crashes/UE4CC-Windows-FF1AEF3D49594BACE2BC69AAA616CBE5_0002/UE4Minidump.dmp
+ProyectoX/Saved
