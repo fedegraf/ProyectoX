@@ -1291,3 +1291,309 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.21-03.58.08:089][459]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.21-03.58.08:090][459]LogContentValidation: Display: Validating World /Game/ProyectoX/arr/levels/platforms.platforms
 [2022.05.21-03.58.08:090][459]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProyectoX/arr/levels/platforms_BuiltData.platforms_BuiltData
+[2022.05.21-03.58.42:745][777]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.21-03.58.42:754][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.21-03.58.42:754][777]PIE: New page: Sesión PIE (reproducción en el editor): platforms (20 may. 2022 21:58:42)
+[2022.05.21-03.58.42:784][777]LogPlayLevel: Creating play world package: /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-03.58.42:790][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005631s)
+[2022.05.21-03.58.42:790][777]LogAIModule: Creating AISystem for world platforms
+[2022.05.21-03.58.42:791][777]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2022.05.21-03.58.42:791][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProyectoX/arr/levels/platforms.platforms to /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms (0.006760s)
+[2022.05.21-03.58.42:797][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.21-03.58.42:798][777]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.21-03.58.42:798][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.21-03.58.42:798][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.21-03.58.42:798][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.21-03.58.42:798][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.21-03.58.42:798][777]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.21-03.58.42:805][777]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.21-03.58.42:805][777]LogAudioMixer: Display: 1: FrontRight
+[2022.05.21-03.58.42:809][777]LogAudioMixer: Display: Using Audio Device Altavoces (Focusrite Usb Audio)
+[2022.05.21-03.58.42:809][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.21-03.58.42:809][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.21-03.58.42:809][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.21-03.58.42:810][777]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.21-03.58.42:810][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.21-03.58.42:810][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.21-03.58.42:811][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.21-03.58.42:811][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.21-03.58.42:811][777]LogInit: FAudioDevice initialized.
+[2022.05.21-03.58.42:811][777]LogAudio: Display: Audio Device (ID: 3) registered with world 'platforms'.
+[2022.05.21-03.58.42:815][777]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.21-03.58.42:819][777]LogWorld: Bringing World /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms up for play (max tick rate 0) at 2022.05.21-00.58.42
+[2022.05.21-03.58.42:819][777]LogWorld: Bringing up level for play took: 0.003219
+[2022.05.21-03.58.42:820][777]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.21-03.58.42:822][777]PIE: El servidor ha iniciado la sesión
+[2022.05.21-03.58.42:822][777]PIE: Play in editor total start time 0,069 seconds.
+[2022.05.21-03.59.06:484][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-03.59.06:485][611]LogWorld: BeginTearingDown for /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-03.59.06:485][611]LogWorld: UWorld::CleanupWorld for platforms, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-03.59.06:485][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-03.59.06:495][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.21-03.59.06:510][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-03.59.06:516][611]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.21-03.59.06:516][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-03.59.06:517][611]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-03.59.06:519][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-03.59.06:521][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.05.21-03.59.06:557][612]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.21-03.59.15:230][624]LogEditorViewport: Clicking on Actor (LMB): generic_enemy_dark_C (generic_enemy_dark)
+[2022.05.21-03.59.16:036][708]LogEditorViewport: Clicking on Actor (CTRL LMB): generic_enemy_fire_C (generic_enemy_fire)
+[2022.05.21-03.59.16:544][759]LogEditorViewport: Clicking on Actor (LMB): generic_enemy_dark_C (generic_enemy_dark)
+[2022.05.21-03.59.19:863][110]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.21-03.59.19:871][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.21-03.59.19:871][110]PIE: New page: Sesión PIE (reproducción en el editor): platforms (20 may. 2022 21:59:19)
+[2022.05.21-03.59.19:904][110]LogPlayLevel: Creating play world package: /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-03.59.19:909][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005556s)
+[2022.05.21-03.59.19:910][110]LogAIModule: Creating AISystem for world platforms
+[2022.05.21-03.59.19:911][110]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2022.05.21-03.59.19:911][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProyectoX/arr/levels/platforms.platforms to /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms (0.006744s)
+[2022.05.21-03.59.19:918][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.05.21-03.59.19:918][110]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.21-03.59.19:918][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.21-03.59.19:918][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.21-03.59.19:918][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.21-03.59.19:919][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.21-03.59.19:919][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.21-03.59.19:919][110]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.21-03.59.19:919][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.21-03.59.19:919][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.21-03.59.19:919][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.21-03.59.19:919][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.21-03.59.19:919][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.21-03.59.19:919][110]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.21-03.59.19:926][110]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.21-03.59.19:926][110]LogAudioMixer: Display: 1: FrontRight
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Using Audio Device Altavoces (Focusrite Usb Audio)
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.21-03.59.19:930][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.21-03.59.19:930][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.21-03.59.19:931][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.21-03.59.19:931][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.21-03.59.19:931][110]LogInit: FAudioDevice initialized.
+[2022.05.21-03.59.19:931][110]LogAudio: Display: Audio Device (ID: 4) registered with world 'platforms'.
+[2022.05.21-03.59.19:940][110]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.21-03.59.19:943][110]LogWorld: Bringing World /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms up for play (max tick rate 0) at 2022.05.21-00.59.19
+[2022.05.21-03.59.19:943][110]LogWorld: Bringing up level for play took: 0.003236
+[2022.05.21-03.59.19:944][110]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.21-03.59.19:946][110]PIE: El servidor ha iniciado la sesión
+[2022.05.21-03.59.19:946][110]PIE: Play in editor total start time 0,075 seconds.
+[2022.05.21-03.59.39:056][401]LogCharacterMovement: SubZero_2 is stuck and failed to move! Velocity: X=0.00 Y=221.85 Z=0.00 Location: X=1180.00 Y=713.82 Z=119.26 Normal: X=-0.09 Y=-1.00 Z=0.00 PenetrationDepth:2.248 Actor:generic_enemy_dark_2 Component:CharacterMesh0 BoneName:lowerarm_l (0 other events since notify)
+[2022.05.21-03.59.41:572][703]LogCharacterMovement: generic_enemy_dark_2 is stuck and failed to move! Velocity: X=0.00 Y=-456.36 Z=0.00 Location: X=1190.00 Y=682.34 Z=109.03 Normal: X=-0.80 Y=0.29 Z=-0.52 PenetrationDepth:1.250 Actor:Scorpion_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.05.21-04.00.11:594][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-04.00.11:595][302]LogWorld: BeginTearingDown for /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-04.00.11:595][302]LogWorld: UWorld::CleanupWorld for platforms, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-04.00.11:595][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-04.00.11:602][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.21-04.00.11:636][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-04.00.11:642][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-04.00.11:643][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-04.00.11:644][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-04.00.11:649][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.05.21-04.00.11:692][303]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.21-04.00.13:922][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/levels/platforms" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.21-04.00.13:928][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.05.21-04.00.13:962][561]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/platforms3E9037B6437423A693D2049A300D7B19.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms.umap'
+[2022.05.21-04.00.13:979][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/levels/platforms_BuiltData" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms_BuiltData.uasset" SILENT=true
+[2022.05.21-04.00.13:997][561]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/platforms_BuiltData10139E4A400B3F9D319770BEDEC634CD.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms_BuiltData.uasset'
+[2022.05.21-04.00.14:010][561]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.90ms
+[2022.05.21-04.00.14:013][561]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.21-04.00.14:013][561]LogContentValidation: Display: Validating World /Game/ProyectoX/arr/levels/platforms.platforms
+[2022.05.21-04.00.14:013][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProyectoX/arr/levels/platforms_BuiltData.platforms_BuiltData
+[2022.05.21-04.00.22:666][552]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy_dark.generic_enemy_dark
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:832][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::ROund' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::SquareL' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::RoomL' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::DescriptionOnly' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:833][552]LogEnum: Warning: Enum name collision: 'BP_DemoDisplay_Enum::NewEnumerator0' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::Standard' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofwithHole' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:834][552]LogEnum: Warning: Enum name collision: 'BP_DemoRoom_Enum::RoofOpen' is in both '/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/BluePrint/BP_DemoRoom_Enum.BP_DemoRoom_Enum' and '/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Blueprints/BP_DemoRoom_Enum.BP_DemoRoom_Enum'
+[2022.05.21-04.00.22:873][552]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.21-04.00.23:688][552]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.21-04.00.24:028][575]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.21-04.00.25:148][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.01.35:825][208]LogEditorTransaction: Undo Mover nodos
+[2022.05.21-04.01.39:743][591]LogEditorTransaction: Undo Delete current selection
+[2022.05.21-04.01.40:012][598]LogEditorTransaction: Undo Crear enlace del Pin
+[2022.05.21-04.01.40:413][612]LogEditorTransaction: Undo Mover nodo
+[2022.05.21-04.01.40:872][651]LogEditorTransaction: Undo Crear enlace del Pin
+[2022.05.21-04.01.43:206][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.01.43:450][848]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy469B9E72453AC398C83CA58DE8DEBCDB.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.01.43:461][848]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.78ms
+[2022.05.21-04.01.43:467][848]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.01.43:467][848]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.02.16:244][988]BlueprintLog: New page: Compilar generic_enemy
+[2022.05.21-04.02.16:435][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.21-04.02.16:489][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.02.16:666][988]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy04AE41754059D36C1FA235B8A5BD7CF9.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.02.16:679][988]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.02.16:679][988]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.02.16:685][988]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.79ms
+[2022.05.21-04.02.22:084][416]LogScript: Warning: Accessed None trying to read property AsAnimBP
+	SubZero_C /Engine/Transient.World_11:PersistentLevel.SubZero_C_0
+	Function /Game/ProyectoX/arr/pawns/SideScrollerCharacter.SideScrollerCharacter_C:OnRep_CurrentCombo:008D
+[2022.05.21-04.02.22:089][416]LogScript: Warning: Accessed None trying to read property AsAnimBP
+	Scorpion_C /Engine/Transient.World_12:PersistentLevel.Scorpion_C_0
+	Function /Game/ProyectoX/arr/pawns/SideScrollerCharacter.SideScrollerCharacter_C:OnRep_CurrentCombo:008D
+[2022.05.21-04.02.31:606][127]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::ActorHasTag' [No se puede encontrar el módulo especificado.]
+[2022.05.21-04.03.11:532][360]BlueprintLog: New page: Compilar generic_enemy
+[2022.05.21-04.03.11:723][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.21-04.03.11:778][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.03.11:957][360]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy40908B364FF41A4864D07694AB1FCD2D.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.03.11:970][360]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.03.11:970][360]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.03.11:975][360]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.71ms
+[2022.05.21-04.03.12:277][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.03.12:452][382]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemyA0C2C3EC4AFB23B8D60B55BDBD4ECA07.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.03.12:466][382]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.83ms
+[2022.05.21-04.03.12:471][382]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.03.12:471][382]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.03.43:285][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.03.43:466][116]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy8C6ED2E84EDDE2EBED55B790BA255E3E.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.03.43:478][116]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.90ms
+[2022.05.21-04.03.43:483][116]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.03.43:483][116]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.03.44:316][188]BlueprintLog: New page: Compilar generic_enemy
+[2022.05.21-04.03.44:511][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.21-04.03.44:831][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.03.45:011][207]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy4F47ABEB45EA28F46D7C73A6F96AD159.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.03.45:027][207]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.85ms
+[2022.05.21-04.03.45:032][207]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.03.45:032][207]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.04.03:868][689]BlueprintLog: New page: Compilar generic_enemy
+[2022.05.21-04.04.04:070][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.05.21-04.04.04:122][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.04.04:302][689]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy44DC21334DC0DABD4878C3A9104B73D8.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.04.04:316][689]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.04.04:317][689]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.04.04:322][689]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.87ms
+[2022.05.21-04.04.07:181][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.04.07:356][918]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy1A0193DC455FC8191CC7838D4A2599F0.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.04.07:371][918]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   6.00ms
+[2022.05.21-04.04.07:376][918]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.04.07:376][918]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.04.14:110][518]BlueprintLog: New page: Compilar generic_enemy
+[2022.05.21-04.04.14:306][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.05.21-04.04.14:366][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.04.14:544][518]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy0ACB1F19429920CC0D8021AAA18A0442.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.04.14:557][518]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.04.14:557][518]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.04.14:563][518]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.65ms
+[2022.05.21-04.04.15:105][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.04.15:282][557]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemyC670D5614B1A42DB053F37945BDB4252.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.04.15:294][557]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.79ms
+[2022.05.21-04.04.15:299][557]AssetCheck: New page: Asset Save: generic_enemy
+[2022.05.21-04.04.15:299][557]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.04.23:114][270]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.21-04.04.23:122][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.21-04.04.23:123][270]PIE: New page: Sesión PIE (reproducción en el editor): platforms (20 may. 2022 22:04:23)
+[2022.05.21-04.04.23:123][270]LogPlayLevel: Creating play world package: /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-04.04.23:129][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005766s)
+[2022.05.21-04.04.23:129][270]LogAIModule: Creating AISystem for world platforms
+[2022.05.21-04.04.23:130][270]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2022.05.21-04.04.23:130][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProyectoX/arr/levels/platforms.platforms to /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms (0.007000s)
+[2022.05.21-04.04.23:154][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.05.21-04.04.23:155][270]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.21-04.04.23:156][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.21-04.04.23:156][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.21-04.04.23:156][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.21-04.04.23:156][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.21-04.04.23:156][270]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.21-04.04.23:164][270]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.21-04.04.23:164][270]LogAudioMixer: Display: 1: FrontRight
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Using Audio Device Altavoces (Focusrite Usb Audio)
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.21-04.04.23:168][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.21-04.04.23:168][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.21-04.04.23:169][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.21-04.04.23:169][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.21-04.04.23:169][270]LogInit: FAudioDevice initialized.
+[2022.05.21-04.04.23:169][270]LogAudio: Display: Audio Device (ID: 5) registered with world 'platforms'.
+[2022.05.21-04.04.23:212][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-04.04.23:212][270]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.05.21-04.04.23:216][270]LogWorld: Bringing World /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms up for play (max tick rate 0) at 2022.05.21-01.04.23
+[2022.05.21-04.04.23:217][270]LogWorld: Bringing up level for play took: 0.003819
+[2022.05.21-04.04.23:217][270]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.05.21-04.04.23:221][270]PIE: El servidor ha iniciado la sesión
+[2022.05.21-04.04.23:222][270]PIE: Play in editor total start time 0,1 seconds.
+[2022.05.21-04.04.51:601][367]LogCharacterMovement: Scorpion_2 is stuck and failed to move! Velocity: X=0.00 Y=-435.89 Z=0.00 Location: X=1250.00 Y=569.05 Z=119.26 Normal: X=0.18 Y=0.98 Z=0.00 PenetrationDepth:0.251 Actor:generic_enemy_dark_2 Component:CharacterMesh0 BoneName:hand_r (0 other events since notify)
+[2022.05.21-04.04.52:764][451]LogScript: Warning: Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill
+	FightSystem_C /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms:PersistentLevel.generic_enemy_dark_2.FightSystem
+	Function /Game/ProyectoX/arr/combat/FightSystem.FightSystem_C:AddImpulseShort:0057
+[2022.05.21-04.04.52:764][451]PIE: Error: Blueprint Runtime Error: "Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill". Blueprint:  FightSystem Function:  Add Impulse Short Graph:  AddImpulseShort Node:  Añadir impulso
+[2022.05.21-04.04.52:871][459]LogScript: Warning: Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill
+	FightSystem_C /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms:PersistentLevel.generic_enemy_dark_2.FightSystem
+	Function /Game/ProyectoX/arr/combat/FightSystem.FightSystem_C:AddImpulseShort:0057
+[2022.05.21-04.04.52:871][459]PIE: Error: Blueprint Runtime Error: "Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill". Blueprint:  FightSystem Function:  Add Impulse Short Graph:  AddImpulseShort Node:  Añadir impulso
+[2022.05.21-04.04.52:978][467]LogScript: Warning: Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill
+	FightSystem_C /Game/ProyectoX/arr/levels/UEDPIE_0_platforms.platforms:PersistentLevel.generic_enemy_dark_2.FightSystem
+	Function /Game/ProyectoX/arr/combat/FightSystem.FightSystem_C:ExecuteUbergraph_FightSystem:20C0
+[2022.05.21-04.04.52:978][467]PIE: Error: Blueprint Runtime Error: "Attempted to access CharMoveComp via property CharacterMovement, but CharMoveComp is pending kill". Blueprint:  FightSystem Function:  Execute Ubergraph Fight System Graph:  Combo1_Impulses Node:  Bifurcar
+[2022.05.21-04.04.54:485][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.21-04.04.54:485][575]LogWorld: BeginTearingDown for /Game/ProyectoX/arr/levels/UEDPIE_0_platforms
+[2022.05.21-04.04.54:485][575]LogSlate: Window 'ProyectoX Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.21-04.04.54:493][575]LogWorld: UWorld::CleanupWorld for platforms, bSessionEnded=true, bCleanupResources=true
+[2022.05.21-04.04.54:494][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-04.04.54:508][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.21-04.04.54:543][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.21-04.04.54:565][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.21-04.04.54:565][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-04.04.54:566][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.21-04.04.54:571][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.05.21-04.04.54:636][576]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.05.21-04.04.59:993][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.21-04.05.00:004][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/levels/platforms" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.21-04.05.00:025][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.21-04.05.00:058][109]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/platformsDCF39D5F4F078FE338FB7DAFD400ACC6.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/levels/platforms.umap'
+[2022.05.21-04.05.00:072][109]LogFileHelpers: Saving map 'platforms' took 0.068
+[2022.05.21-04.05.00:073][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProyectoX/arr/pawns/enemy/generic_enemy" FILE="H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset" SILENT=true
+[2022.05.21-04.05.00:250][109]LogSavePackage: Moving 'H:/GitHub/ProyectoX/ProyectoX/Saved/generic_enemy2D5AD82D4505E27AA443D59897EB4E08.tmp' to 'H:/GitHub/ProyectoX/ProyectoX/Content/ProyectoX/arr/pawns/enemy/generic_enemy.uasset'
+[2022.05.21-04.05.00:268][109]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/0130200E42EEB8F7DCC6AE905E30FDF5.json took   5.95ms
+[2022.05.21-04.05.00:273][109]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.21-04.05.00:273][109]LogContentValidation: Display: Validating Blueprint /Game/ProyectoX/arr/pawns/enemy/generic_enemy.generic_enemy
+[2022.05.21-04.05.00:273][109]LogContentValidation: Display: Validating World /Game/ProyectoX/arr/levels/platforms.platforms
