@@ -13,6 +13,10 @@
 			"Name": "InputBufferAdvanced",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6a167c0b560c4315b36fc9fc31c1f02c"
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
