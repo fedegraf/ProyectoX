@@ -268,18 +268,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
-			"Assets": [
-				"/Game/ProyectoX/arr/materials/M_Blue",
-				"/Game/Mannequin/Character/Materials/M_Male_Body",
-				"/Game/ProyectoX/arr/materials/M_Red",
-				"/Game/ProyectoX/arr/materials/M_BlueEnemy",
-				"/Game/ProyectoX/arr/materials/M_Purple",
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/ThirdPersonBP/Mannequin/Character/Materials/M_UE4Man_Body",
-				"/Game/ProyectoX/arr/materials/M_Black"
-			]
-		},
-		{
 			"ShaderMapHash": "C26A6F546813AEA1009B4FF0DEB356C12764875D",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_dust02uni_4x4"
@@ -296,6 +284,19 @@
 			"ShaderMapHash": "25368554EBC02B3FBF2C3204FD290DCF90885106",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_shockwave07"
+			]
+		},
+		{
+			"ShaderMapHash": "00D48028264824A9D4A2B1164D452E2806F6E36A",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_shockwave08"
+			]
+		},
+		{
+			"ShaderMapHash": "2D26FEF4B21ACF83071A911A7AF8C725CE8A83AB",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_empty",
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_empty"
 			]
 		},
 		{
@@ -319,28 +320,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "00D48028264824A9D4A2B1164D452E2806F6E36A",
+			"ShaderMapHash": "456BA08C5701C5897E996D65D4A7F796E7317BEF",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_shockwave08"
-			]
-		},
-		{
-			"ShaderMapHash": "2D26FEF4B21ACF83071A911A7AF8C725CE8A83AB",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_empty",
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_empty"
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
 			]
 		},
 		{
 			"ShaderMapHash": "23F8D71B3BE027449831E62236E4CEF9B26FA40A",
 			"Assets": [
 				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "456BA08C5701C5897E996D65D4A7F796E7317BEF",
-			"Assets": [
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master"
 			]
 		},
 		{
@@ -432,12 +420,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "10BDA45DA730C8DAD6189CB6820E7485A8E2F246",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_aura14"
-			]
-		},
-		{
 			"ShaderMapHash": "E698D1B7228B75074A503FAB00105261E16C47E7",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_base_turbulence",
@@ -459,6 +441,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "10BDA45DA730C8DAD6189CB6820E7485A8E2F246",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_aura14"
+			]
+		},
+		{
 			"ShaderMapHash": "75A8DE7E29F04662908321FEA3AA3E384329A5FA",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_ice04"
@@ -477,12 +465,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "481302A6760722D283E8421562932C1D988DE3E6",
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
 			"Assets": [
-				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_1",
-				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_2",
-				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_2Dirty",
-				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_1Dirty"
+				"/Game/Mannequin/Character/Materials/M_Male_Body",
+				"/Game/ProyectoX/arr/materials/M_Blue",
+				"/Game/ProyectoX/arr/materials/M_Red",
+				"/Game/ProyectoX/arr/materials/M_BlueEnemy",
+				"/Game/ProyectoX/arr/materials/M_Purple",
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/ThirdPersonBP/Mannequin/Character/Materials/M_UE4Man_Body",
+				"/Game/ProyectoX/arr/materials/M_Black"
 			]
 		},
 		{
@@ -493,15 +484,12 @@
 			]
 		},
 		{
-			"ShaderMapHash": "395D3AE0A6CA9772B1853FD8A6F1FDA259D39149",
+			"ShaderMapHash": "481302A6760722D283E8421562932C1D988DE3E6",
 			"Assets": [
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX/M_BloomPlane"
-			]
-		},
-		{
-			"ShaderMapHash": "36DB6EFC0C1647458065595B501F01EF4DE3DA96",
-			"Assets": [
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans"
+				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_1",
+				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_2",
+				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_2Dirty",
+				"/Game/MegaPack/Weapons/Weapon_Pack/Materials/Weapons/M_WeaponSet_1Dirty"
 			]
 		},
 		{
@@ -524,6 +512,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "36DB6EFC0C1647458065595B501F01EF4DE3DA96",
+			"Assets": [
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Mobile/ICE/M_Tornado_Ice_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "395D3AE0A6CA9772B1853FD8A6F1FDA259D39149",
+			"Assets": [
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX/M_BloomPlane"
+			]
+		},
+		{
 			"ShaderMapHash": "8970341CAD53712C346D45BAF230E62A70F008CB",
 			"Assets": [
 				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_FogSheet_Add_Ice_T3",
@@ -531,9 +531,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B8238733A54915CF5104658D7ACBCB634406F2F4",
+			"ShaderMapHash": "B77868C31AB0679E8993C9F3D36B257A449D2EFB",
 			"Assets": [
-				"/Game/ProyectoX/arr/materials/MirrorBlack"
+				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Smoke1_Mat"
 			]
 		},
 		{
@@ -543,40 +543,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1AC04F40F12093D5DD89F553C67C4879259D63F3",
+			"ShaderMapHash": "AD1468C654E380220BD35AB6D727EA81D378718C",
 			"Assets": [
-				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_waterDust02"
+				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Basic_Emi_Mat",
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans",
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans",
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans"
 			]
 		},
 		{
-			"ShaderMapHash": "E6D43C4AD458DB0C7CA3BBC3D18FC3BE5154C68A",
+			"ShaderMapHash": "6C196320976206EDA60EE4CED38B22E56ABDAB1F",
 			"Assets": [
-				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_empty"
-			]
-		},
-		{
-			"ShaderMapHash": "5558532C15914C109C847A171119729CEFFCDD07",
-			"Assets": [
-				"/Game/ProyectoX/arr/materials/PureColor",
-				"/Game/ProyectoX/martin/materials/generic"
-			]
-		},
-		{
-			"ShaderMapHash": "FDA4CB63F0891DAF9528CD3F6BC2C22FA1DDC4BB",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_noiseSmoke2"
-			]
-		},
-		{
-			"ShaderMapHash": "7A2F657D5427CFFD9876C46B7374872E79D5C3D1",
-			"Assets": [
-				"/Game/ProyectoX/arr/materials/M_RedEnemy"
-			]
-		},
-		{
-			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Distortion_Mat"
 			]
 		},
 		{
@@ -598,9 +576,52 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
 			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B8238733A54915CF5104658D7ACBCB634406F2F4",
+			"Assets": [
+				"/Game/ProyectoX/arr/materials/MirrorBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "1AC04F40F12093D5DD89F553C67C4879259D63F3",
+			"Assets": [
+				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_waterDust02"
+			]
+		},
+		{
+			"ShaderMapHash": "E6D43C4AD458DB0C7CA3BBC3D18FC3BE5154C68A",
+			"Assets": [
+				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_empty"
+			]
+		},
+		{
+			"ShaderMapHash": "FDA4CB63F0891DAF9528CD3F6BC2C22FA1DDC4BB",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/M_ky_noiseSmoke2"
+			]
+		},
+		{
+			"ShaderMapHash": "7A2F657D5427CFFD9876C46B7374872E79D5C3D1",
+			"Assets": [
+				"/Game/ProyectoX/arr/materials/M_RedEnemy"
+			]
+		},
+		{
+			"ShaderMapHash": "5558532C15914C109C847A171119729CEFFCDD07",
+			"Assets": [
+				"/Game/ProyectoX/arr/materials/PureColor",
+				"/Game/ProyectoX/martin/materials/generic"
 			]
 		},
 		{
@@ -773,12 +794,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A7F6ADE573DFB03C2EC79714CBE64F86A8AD2E53",
-			"Assets": [
-				"/Game/MegaPack/StarterContent/Materials/M_Concrete_Panels"
-			]
-		},
-		{
 			"ShaderMapHash": "403BE01FED35672468C59021EDD516BBF0154AC5",
 			"Assets": [
 				"/Game/MegaPack/StarterContent/Materials/M_Concrete_Grime"
@@ -836,6 +851,12 @@
 			"ShaderMapHash": "EE5C779A86755473406ED05E9E7490306F8F5F67",
 			"Assets": [
 				"/Game/MegaPack/StarterContent/Materials/M_Brick_Clay_Beveled"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F6ADE573DFB03C2EC79714CBE64F86A8AD2E53",
+			"Assets": [
+				"/Game/MegaPack/StarterContent/Materials/M_Concrete_Panels"
 			]
 		},
 		{
@@ -982,6 +1003,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2A44555AC7F59288A3B7102F3568E151F54B6C5D",
+			"Assets": [
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Functions/MF_SharpenFilter"
+			]
+		},
+		{
 			"ShaderMapHash": "1D28043D095257453E88C23BA078B46390D160FC",
 			"Assets": [
 				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Grass_WIND_PHYSICS"
@@ -997,6 +1024,12 @@
 				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Instances/GroundCover/MI_Grass_02",
 				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Instances/GroundCover/MI_GrassTall_01",
 				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Instances/GroundCover/MI_BranchDry_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AAFE538193A9238A5D55AAA0106CEE8312171EBF",
+			"Assets": [
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Imposters"
 			]
 		},
 		{
@@ -1019,9 +1052,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AAFE538193A9238A5D55AAA0106CEE8312171EBF",
+			"ShaderMapHash": "1A4314103C44A2398A68CEEA6796D2EAC79C22A4",
 			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Imposters"
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Sky"
 			]
 		},
 		{
@@ -1031,15 +1064,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2A44555AC7F59288A3B7102F3568E151F54B6C5D",
+			"ShaderMapHash": "76EFDB035B03EFB919022ED5A3C8B31FBE11B87A",
 			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Functions/MF_SharpenFilter"
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Particle/M_LeafFallen"
 			]
 		},
 		{
-			"ShaderMapHash": "1A4314103C44A2398A68CEEA6796D2EAC79C22A4",
+			"ShaderMapHash": "B0F64DC250EA4D57486A607B6426C583169C67F2",
 			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Sky"
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Water_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BBA5135D46749C4D4C4244F76294B4E2DD2E6515",
+			"Assets": [
+				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Waterfall"
 			]
 		},
 		{
@@ -1148,24 +1187,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "76EFDB035B03EFB919022ED5A3C8B31FBE11B87A",
-			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Particle/M_LeafFallen"
-			]
-		},
-		{
-			"ShaderMapHash": "B0F64DC250EA4D57486A607B6426C583169C67F2",
-			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Water_01"
-			]
-		},
-		{
-			"ShaderMapHash": "BBA5135D46749C4D4C4244F76294B4E2DD2E6515",
-			"Assets": [
-				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Masters/M_Waterfall"
-			]
-		},
-		{
 			"ShaderMapHash": "FF9FB166307CC4EC25D81287C60F39D730C8A077",
 			"Assets": [
 				"/Game/MegaPack/Environment/Tropical_Jungle_Pack/Materials/Instances/Imposter/MI_BushA_04_Imposter",
@@ -1215,28 +1236,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "97AEE4E0D03F56AD518581658A7A6EC464F826C4",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_VertHeightLerp_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Soil/WM_Gravel_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "34FA0DBCFF75EB2B477F69F9511D55CA28A603A8",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/BurrowConcreteWall_b_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_d_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_c_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "4B0C0A7F5F8F6ECB6FD57F8F75D30DEFA8359EDA",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Soil/WM_Gravel_a_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "FA17C84FC8AC86B4C030E24D45C17C54E3191860",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_Props_Mat",
@@ -1245,15 +1244,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "15FCD532223A698A88B53AB042C60DB46C64B008",
+			"ShaderMapHash": "6BE56528D33E835D1B66F0FAF518C7E929768FFB",
 			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/TrainTrack_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/LawnMower_a_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Shared/Hunger/Environments/Cat/Raingutter/Raingutter_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/Vacuum_a_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsInterior/Door/Door_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsExterior/Tire/Tire_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/NoTrespassingSign_a_Mat"
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/SteppingStone_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/KayakRed_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Glass/WM_Glass_Opaque",
+				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsInterior/Curtains/FrontDoorCurtain_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/OLD/wood_a_darkest_Mat_Inst"
 			]
 		},
 		{
@@ -1265,32 +1262,96 @@
 		{
 			"ShaderMapHash": "875D9628D1735672B99B68483AEF6BEADB8F7281",
 			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWallRed_a_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_RoofShingles_b_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_WoodPlanksWhite_c_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_WoodPlanksWhite_b_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalBasic_a_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_b_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWallOrange_b_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalBasicLight_a_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_RedWood_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalBasicDark_a_mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_PaintedSteel_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_WoodPlanksWhite_b_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_e_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_b_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWallYellow_a_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWallOrange_b_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWallRed_a_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_WoodPlanksWhite_c_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_RoofShingles_b_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalBasicLight_a_mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalWallPaint_c_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Metal/WM_MetalBasicDark_a_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_RedWood_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plastic/WM_Plastic_Cream_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plastic/WM_Plastic_Yellow_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plastic/WM_Plastic_Red_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plaster/WM_PlasterWall_a_Green_mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_WoodPlanksFloor_d_mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Plastic/WM_Plastic_Cream_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/WM_LacqueredBrownWood_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DCA1763EA194E7D0BEBC1A43977342EAC17E548D",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/MASTER_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B74BF3B0BA8B7F9621D55A03DB6FF7499B3BB386",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/SolidColor/BlackGloss_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D22E7942DBE3786EE5C21EFBAC1FC523A95523D2",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_Props_Masked_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FB6A685EA09C2372B15E3E31B4949419B02FFDBA",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/MountinBikeOpacity_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "97AEE4E0D03F56AD518581658A7A6EC464F826C4",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_VertHeightLerp_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Soil/WM_Gravel_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "34FA0DBCFF75EB2B477F69F9511D55CA28A603A8",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_d_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_c_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Shingles/WM_WallShingles_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/BurrowConcreteWall_b_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "15FCD532223A698A88B53AB042C60DB46C64B008",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Shared/Hunger/Environments/Cat/Raingutter/Raingutter_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/TrainTrack_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/LawnMower_a_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/Vacuum_a_mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/NoTrespassingSign_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsInterior/Door/Door_a_Mat",
+				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsExterior/Tire/Tire_a_Mat"
 			]
 		},
 		{
 			"ShaderMapHash": "0D594DF2008612ACE4299DF9A3710371054C8120",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_Glass_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "624290F78CFDBC7139605AD19C9DC46165645F4F",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Glass/WM_GlassClean_a"
+			]
+		},
+		{
+			"ShaderMapHash": "4B0C0A7F5F8F6ECB6FD57F8F75D30DEFA8359EDA",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Soil/WM_Gravel_a_Mat"
 			]
 		},
 		{
@@ -1304,22 +1365,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6BE56528D33E835D1B66F0FAF518C7E929768FFB",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Glass/WM_Glass_Opaque",
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/SteppingStone_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/KayakRed_a_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsInterior/Curtains/FrontDoorCurtain_Mat",
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Wood/OLD/wood_a_darkest_Mat_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "D22E7942DBE3786EE5C21EFBAC1FC523A95523D2",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_Props_Masked_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "231F3437CC2E5C55A43C573F3574951B460110A1",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Decal/Ivy/Ivy_b_mat",
@@ -1328,12 +1373,6 @@
 				"/Game/MegaPack/Environment/EF_Grounds/Shared/House/Environments/GenericPropsExterior/Table/MetalMesh_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Shared/GenericPropsInterior/Book/Bookstacks/NotebookRings_a_Mat",
 				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Decal/RoadLine/RoadLine_B_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "624290F78CFDBC7139605AD19C9DC46165645F4F",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/Glass/WM_GlassClean_a"
 			]
 		},
 		{
@@ -1382,21 +1421,39 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DCA1763EA194E7D0BEBC1A43977342EAC17E548D",
+			"ShaderMapHash": "EE95C82BEBEFD2043BF3E6ADD1C181FF53FE0439",
 			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/MASTER_BaseColor_Mat"
+				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "B74BF3B0BA8B7F9621D55A03DB6FF7499B3BB386",
+			"ShaderMapHash": "964ADC001D9564B729A6F6F3242ECCA7453E2346",
 			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Common/Materials/SolidColor/BlackGloss_Mat"
+				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "FB6A685EA09C2372B15E3E31B4949419B02FFDBA",
+			"ShaderMapHash": "B2B1BF6607BBB6D5328022C422F884241E4A3E1C",
 			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/MountinBikeOpacity_a_Mat"
+				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CEA256282B0EF7EBCA1AA2FD5871A76743C21B47",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/PowerpoleWire_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5AE165B583840E6CC6025275784FFDA100CB883F",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/grass_tall_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D7C42C56298CAACD4EDBEC451DE34C4D284FD4CC",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/grassclump_b_Mat"
 			]
 		},
 		{
@@ -1489,24 +1546,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EE95C82BEBEFD2043BF3E6ADD1C181FF53FE0439",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "964ADC001D9564B729A6F6F3242ECCA7453E2346",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B2B1BF6607BBB6D5328022C422F884241E4A3E1C",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Effects/Materials/Water/PondWater_a_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "AAAE64957F723BBB2C266CA2ADA137C5CB93C6BF",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Common/MasterMaterial/Master_Props_Masked_SubSurface_Mat_simplified"
@@ -1522,36 +1561,6 @@
 			"ShaderMapHash": "D52896B23D8E343947167B9059C8F66575768DD0",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Materials/house_water_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "CEA256282B0EF7EBCA1AA2FD5871A76743C21B47",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/PowerpoleWire_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "5AE165B583840E6CC6025275784FFDA100CB883F",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/grass_tall_a_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "D7C42C56298CAACD4EDBEC451DE34C4D284FD4CC",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/grassclump_b_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "173AEEB42EDFB7C83367A309896224A9691A059A",
-			"Assets": [
-				"/Game/MegaPack/Environment/AdvancedVillagePack/Materials/M_Landscape"
-			]
-		},
-		{
-			"ShaderMapHash": "7A97FF86E76C8D462959B6E71651ECB9C01EAA37",
-			"Assets": [
-				"/Game/MegaPack/Environment/AdvancedVillagePack/Materials/M_Water"
 			]
 		},
 		{
@@ -1591,6 +1600,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "173AEEB42EDFB7C83367A309896224A9691A059A",
+			"Assets": [
+				"/Game/MegaPack/Environment/AdvancedVillagePack/Materials/M_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "7A97FF86E76C8D462959B6E71651ECB9C01EAA37",
+			"Assets": [
+				"/Game/MegaPack/Environment/AdvancedVillagePack/Materials/M_Water"
+			]
+		},
+		{
 			"ShaderMapHash": "17DF92A19FE9F6AC817B56E297F1E313E6C13A10",
 			"Assets": [
 				"/Game/MegaPack/Environment/AdvancedVillagePack/Materials/M_Pfx_Additive"
@@ -1627,6 +1648,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A4F1FBF168E64DAE6E4E284C9C757A6A0E15AD4C",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_thunderForBeam"
+			]
+		},
+		{
+			"ShaderMapHash": "B860720607F883CD51EE4FB9EC6574F173CF57BF",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_vortex03"
+			]
+		},
+		{
+			"ShaderMapHash": "150EB6163891F04634B22239A518EC2210A451E4",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_tornado01"
+			]
+		},
+		{
 			"ShaderMapHash": "18477EA952EF0ABDBF15FEA00D51AB45136CAD59",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_shockWave03_4x4",
@@ -1647,30 +1686,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A4F1FBF168E64DAE6E4E284C9C757A6A0E15AD4C",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_thunderForBeam"
-			]
-		},
-		{
-			"ShaderMapHash": "B860720607F883CD51EE4FB9EC6574F173CF57BF",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_vortex03"
-			]
-		},
-		{
-			"ShaderMapHash": "150EB6163891F04634B22239A518EC2210A451E4",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_tornado01"
-			]
-		},
-		{
-			"ShaderMapHash": "BBCBDBF067E12E36CF64DACEA32832F9443AEFC0",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_flare_flash_trs"
-			]
-		},
-		{
 			"ShaderMapHash": "19DED9BE1C4C42C8E35DA8144FCF33584BA92A37",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_stone02"
@@ -1688,6 +1703,24 @@
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_vortex04B_4x4_two",
 				"/Game/MegaPack/Effects/AdvancedMagicFX12/Materials/MI_ky_vortex04B_4x4_two"
+			]
+		},
+		{
+			"ShaderMapHash": "BBCBDBF067E12E36CF64DACEA32832F9443AEFC0",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_flare_flash_trs"
+			]
+		},
+		{
+			"ShaderMapHash": "D811657B2D92F6685E07B16FFEAFD40ED31BB67E",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_line"
+			]
+		},
+		{
+			"ShaderMapHash": "3B025D6E1625DC0E4BA4C97A852607D6BC229BC7",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_aura18"
 			]
 		},
 		{
@@ -1720,18 +1753,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D811657B2D92F6685E07B16FFEAFD40ED31BB67E",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_line"
-			]
-		},
-		{
-			"ShaderMapHash": "3B025D6E1625DC0E4BA4C97A852607D6BC229BC7",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_aura18"
-			]
-		},
-		{
 			"ShaderMapHash": "51608F1CDF04592A2F90649EF1B47BFDA644FC88",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_fire03b"
@@ -1741,6 +1762,12 @@
 			"ShaderMapHash": "F1F45C20F95B961F66C0C8BA1D2FA800A4446131",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_flare14R"
+			]
+		},
+		{
+			"ShaderMapHash": "63FA7EFE6C1AFE7DF1C7A1C7E96EDAA4B8C1EA1A",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_auraWall02"
 			]
 		},
 		{
@@ -1779,12 +1806,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "63FA7EFE6C1AFE7DF1C7A1C7E96EDAA4B8C1EA1A",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_auraWall02"
-			]
-		},
-		{
 			"ShaderMapHash": "028CB7A094693EF572D6E01ABC10BAA87D881F1C",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_auraWall01"
@@ -1794,12 +1815,6 @@
 			"ShaderMapHash": "6E78EA117E758881F5EAA0086D9091AE1A9A04F9",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_auraWallB_two"
-			]
-		},
-		{
-			"ShaderMapHash": "6D069939720088B5EBF9E7798F18FC2D7DED9101",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_fire03b"
 			]
 		},
 		{
@@ -1815,9 +1830,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D7BBF851CE873697860A0085018FF219A3086EC1",
+			"ShaderMapHash": "6D069939720088B5EBF9E7798F18FC2D7DED9101",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_primitiveColor"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_fire03b"
 			]
 		},
 		{
@@ -1833,6 +1848,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D7BBF851CE873697860A0085018FF219A3086EC1",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/MI_ky_primitiveColor"
+			]
+		},
+		{
 			"ShaderMapHash": "820B913ECC00E70F60A6639C5A978131A57DC5E6",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_polarShockwave02"
@@ -1845,12 +1866,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2AD54E40759E9FCBF9160990D32E874358FC20C7",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultParticle"
-			]
-		},
-		{
 			"ShaderMapHash": "9D7D3DAE29AA244644C551EA2EBF25E31041F3CA",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_trailGround01_2"
@@ -1860,6 +1875,12 @@
 			"ShaderMapHash": "CE71DDB06AE518380CA358A955D3E8BD5E3CF5F2",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_shockWave05_2"
+			]
+		},
+		{
+			"ShaderMapHash": "2AD54E40759E9FCBF9160990D32E874358FC20C7",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultParticle"
 			]
 		},
 		{
@@ -1878,6 +1899,14 @@
 			"ShaderMapHash": "22A09AB6EE95E41E81CE0ECAC21CB4175BA48ED1",
 			"Assets": [
 				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_fire03b2"
+			]
+		},
+		{
+			"ShaderMapHash": "ABC595327D53266CDC406E42D7EB00CB3C3AF2B3",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern",
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern",
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern"
 			]
 		},
 		{
@@ -1906,27 +1935,29 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ABC595327D53266CDC406E42D7EB00CB3C3AF2B3",
+			"ShaderMapHash": "E18AA7D7C38FC2C972CB90B901B79ED0EEC205B3",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern",
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern",
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_slash02_4x4"
 			]
 		},
 		{
-			"ShaderMapHash": "F47B3DEFCC2FFDDCCBB2C8E4D331B6489CE17EDF",
+			"ShaderMapHash": "1B0411456D5AAE2B84FB009A46B957BE8CD993B4",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern_NoText",
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern_NoText",
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern_NoText"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_slash01_4x4"
 			]
 		},
 		{
-			"ShaderMapHash": "C84DAF5D7F9A4CCBC3D5166F01A5019524658CA6",
+			"ShaderMapHash": "01CB62AA350DB0692DBADFFAC4A8881F8EFD55C6",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored",
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern_Inst_Mirrored",
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_trailGround01"
+			]
+		},
+		{
+			"ShaderMapHash": "5551DBFC93D87B721203B8C1AF0823D4CA1F0262",
+			"Assets": [
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit",
+				"/Game/MegaPack/Effects/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit",
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit"
 			]
 		},
 		{
@@ -1943,29 +1974,19 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5551DBFC93D87B721203B8C1AF0823D4CA1F0262",
+			"ShaderMapHash": "C84DAF5D7F9A4CCBC3D5166F01A5019524658CA6",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit",
-				"/Game/MegaPack/Effects/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit",
-				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored",
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern_Inst_Mirrored",
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored"
 			]
 		},
 		{
-			"ShaderMapHash": "1B0411456D5AAE2B84FB009A46B957BE8CD993B4",
+			"ShaderMapHash": "F47B3DEFCC2FFDDCCBB2C8E4D331B6489CE17EDF",
 			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_slash01_4x4"
-			]
-		},
-		{
-			"ShaderMapHash": "E18AA7D7C38FC2C972CB90B901B79ED0EEC205B3",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_slash02_4x4"
-			]
-		},
-		{
-			"ShaderMapHash": "01CB62AA350DB0692DBADFFAC4A8881F8EFD55C6",
-			"Assets": [
-				"/Game/MegaPack/Effects/AdvancedMagicFX13/Materials/M_ky_trailGround01"
+				"/Game/MegaPack/Effects/AdvancedMagicFX13/EpicContent/Materials/M_DemoWallPattern_NoText",
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Demo_Room/Materials/M_DemoWallPattern_NoText",
+				"/Game/MegaPack/Effects/AdvancedMagicFX12/EpicContent/Materials/M_DemoWallPattern_NoText"
 			]
 		},
 		{
@@ -2159,15 +2180,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "87EEC61B534B3C8209D3252C53C42701FEE9A8D9",
-			"Assets": [
-				"/Game/MegaPack/Environment/EF_Grounds/Materials/wood_panels_a_blue_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "D72F89E0C4B5DF4C6A5F25A0AE8A2B1350C9BD5D",
 			"Assets": [
 				"/Game/MegaPack/Environment/EF_Grounds/Materials/rooftiles_a_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "87EEC61B534B3C8209D3252C53C42701FEE9A8D9",
+			"Assets": [
+				"/Game/MegaPack/Environment/EF_Grounds/Materials/wood_panels_a_blue_Mat"
 			]
 		},
 		{
@@ -2201,26 +2222,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2CB03AE93064A4837A9996A703CF5497B546C5EE",
-			"Assets": [
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_A"
-			]
-		},
-		{
-			"ShaderMapHash": "2806E835E2EA3B908EBC68F8C0C633CF416A661A",
-			"Assets": [
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Splat_A",
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Water_Splat",
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_Pop"
-			]
-		},
-		{
-			"ShaderMapHash": "6D6F7D9BD7CB1C82A43CCE10D09D6390EA6DB5E1",
-			"Assets": [
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Slash"
-			]
-		},
-		{
 			"ShaderMapHash": "B9B8DC35EC565C43A5859C51081A4FD92AF37A95",
 			"Assets": [
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_B",
@@ -2246,9 +2247,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2CB03AE93064A4837A9996A703CF5497B546C5EE",
+			"Assets": [
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_A"
+			]
+		},
+		{
+			"ShaderMapHash": "2806E835E2EA3B908EBC68F8C0C633CF416A661A",
+			"Assets": [
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Splat_A",
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Water_Splat",
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_Pop"
+			]
+		},
+		{
+			"ShaderMapHash": "6D6F7D9BD7CB1C82A43CCE10D09D6390EA6DB5E1",
+			"Assets": [
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Slash"
+			]
+		},
+		{
 			"ShaderMapHash": "7476317257EBFCC90C54BC250081DEF0D603B77B",
 			"Assets": [
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_B"
+			]
+		},
+		{
+			"ShaderMapHash": "33CD6E1EA0E59B8C9482B30F23B72E08E93C3B4B",
+			"Assets": [
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_A"
 			]
 		},
 		{
@@ -2261,12 +2288,6 @@
 			"ShaderMapHash": "6DD81D1B7CAAB4A7EF585F9747A83354632D526E",
 			"Assets": [
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Snow"
-			]
-		},
-		{
-			"ShaderMapHash": "33CD6E1EA0E59B8C9482B30F23B72E08E93C3B4B",
-			"Assets": [
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_A"
 			]
 		},
 		{
@@ -2326,17 +2347,17 @@
 			]
 		},
 		{
-			"ShaderMapHash": "499A18689B6BE998B564062CC11295A67F2E6A96",
-			"Assets": [
-				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Wisp"
-			]
-		},
-		{
 			"ShaderMapHash": "95B813552AA77350EABB032544F35C0172C4F7F5",
 			"Assets": [
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Dirt_B",
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Paper",
 				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "499A18689B6BE998B564062CC11295A67F2E6A96",
+			"Assets": [
+				"/Game/MegaPack/Effects/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_Wisp"
 			]
 		},
 		{
@@ -2498,30 +2519,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AD1468C654E380220BD35AB6D727EA81D378718C",
-			"Assets": [
-				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Basic_Emi_Mat",
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_2_Trans",
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Trans",
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_IB_AnimGrid_Masked_Trans"
-			]
-		},
-		{
 			"ShaderMapHash": "ECD6DCB7E372CD71C840ED30791EE08EC17A0E47",
 			"Assets": [
 				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Smoke_blend_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "B77868C31AB0679E8993C9F3D36B257A449D2EFB",
-			"Assets": [
-				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Smoke1_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6C196320976206EDA60EE4CED38B22E56ABDAB1F",
-			"Assets": [
-				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Distortion_Mat"
 			]
 		},
 		{
@@ -2543,12 +2543,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BDEDA588F50BE0EC08E5131FA58B777F87E969B3",
-			"Assets": [
-				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/0_DotCircle_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "5151DB076CC5DA89B51FE96F723B77C2C683878F",
 			"Assets": [
 				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/blackbody_exp_Mat"
@@ -2558,6 +2552,12 @@
 			"ShaderMapHash": "6E711B591F0547FAD3C06E04DC2CA3EA5F24920F",
 			"Assets": [
 				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/Debris_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BDEDA588F50BE0EC08E5131FA58B777F87E969B3",
+			"Assets": [
+				"/Game/MegaPack/Effects/M5VFXVOL2/Materials/Master/0_DotCircle_Mat"
 			]
 		},
 		{
@@ -3067,15 +3067,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A5BF0C75A1D5458BF287C04F0E9ADEBB01169CD4",
-			"Assets": [
-				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans"
-			]
-		},
-		{
 			"ShaderMapHash": "5EC2F366BB43DA41DA95DAAB96FB1BFC6F08BFBB",
 			"Assets": [
 				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_LeachBeam_Trans"
+			]
+		},
+		{
+			"ShaderMapHash": "A5BF0C75A1D5458BF287C04F0E9ADEBB01169CD4",
+			"Assets": [
+				"/Game/MegaPack/Effects/InfinityBladeEffects/Effects/FX_Materials/Mobile/M_HealBeam_Trans"
 			]
 		},
 		{
@@ -3765,6 +3765,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "06F8D60820F67F296A70F36CA6B1DE1C15C875B1",
+			"Assets": [
+				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_polarC_two"
+			]
+		},
+		{
 			"ShaderMapHash": "9115B9D93B45EE0BA7089DAEC5A371FC0719AFC8",
 			"Assets": [
 				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_aura9"
@@ -3774,12 +3780,6 @@
 			"ShaderMapHash": "A10014E6E8D24F72AF05D475E9BFFD4BA62620AC",
 			"Assets": [
 				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_aura9"
-			]
-		},
-		{
-			"ShaderMapHash": "06F8D60820F67F296A70F36CA6B1DE1C15C875B1",
-			"Assets": [
-				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_polarC_two"
 			]
 		},
 		{
@@ -3887,18 +3887,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8AE50C59813386741520856E4CE6C7CAFFDD9408",
-			"Assets": [
-				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_auraWall02"
-			]
-		},
-		{
-			"ShaderMapHash": "F402B65F1621649429AAEAF9E33B4D69437D095A",
-			"Assets": [
-				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_auraWall02_two"
-			]
-		},
-		{
 			"ShaderMapHash": "730228A12704D1D0F3E11DFBDD12DB48C9E9ACEB",
 			"Assets": [
 				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_starDust_dis"
@@ -3914,6 +3902,18 @@
 			"ShaderMapHash": "1E4383E6EA87A01231438351E5F38B54298A927C",
 			"Assets": [
 				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
+			]
+		},
+		{
+			"ShaderMapHash": "8AE50C59813386741520856E4CE6C7CAFFDD9408",
+			"Assets": [
+				"/Game/MegaPack/Effects/FXVarietyPack/Materials/M_ky_auraWall02"
+			]
+		},
+		{
+			"ShaderMapHash": "F402B65F1621649429AAEAF9E33B4D69437D095A",
+			"Assets": [
+				"/Game/MegaPack/Effects/FXVarietyPack/Materials/MI_ky_auraWall02_two"
 			]
 		},
 		{
