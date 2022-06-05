@@ -8,6 +8,11 @@
 			"Name": "InputBufferAdvanced",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6a167c0b560c4315b36fc9fc31c1f02c"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		}
 	],
 	"TargetPlatforms": [
