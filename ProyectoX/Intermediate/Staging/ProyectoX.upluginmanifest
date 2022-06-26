@@ -1,6 +1,75 @@
 {
 	"Contents": [
 		{
+			"File": "../../../Engine/Plugins/Marketplace/AutoSizeComments/AutoSizeComments.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "3.0.6",
+				"FriendlyName": "AutoSizeComments",
+				"Description": "Comment boxes that auto resize to fit the nodes inside",
+				"Category": "Editor",
+				"CreatedBy": "fpwong",
+				"CreatedByURL": "https://fpwong.github.io/",
+				"DocsURL": "",
+				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3",
+				"SupportURL": "https://forums.unrealengine.com/community/released-projects/1540542",
+				"EngineVersion": "4.27.0",
+				"CanContainContent": false,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "AutoSizeComments",
+						"Type": "EditorNoCommandlet",
+						"LoadingPhase": "Default",
+						"WhitelistPlatforms": [
+							"Win64",
+							"Mac",
+							"Linux"
+						],
+						"WhitelistTargets": [
+							"Editor"
+						]
+					}
+				]
+			}
+		},
+		{
+			"File": "../../../Engine/Plugins/Runtime/ApexDestruction/ApexDestruction.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "Apex Destruction",
+				"Description": "APEX implementation of destruction",
+				"Category": "Physics",
+				"CreatedBy": "Epic Games, Inc.",
+				"CreatedByURL": "http://epicgames.com",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EnabledByDefault": false,
+				"CanContainContent": false,
+				"Modules": [
+					{
+						"Name": "ApexDestruction",
+						"Type": "Runtime",
+						"LoadingPhase": "PreDefault",
+						"BlacklistPlatforms": [
+							"HoloLens"
+						]
+					},
+					{
+						"Name": "ApexDestructionEditor",
+						"Type": "UncookedOnly",
+						"LoadingPhase": "PreDefault"
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -3467,41 +3536,6 @@
 						"WhitelistPlatforms": [
 							"Win64",
 							"Win32"
-						]
-					}
-				]
-			}
-		},
-		{
-			"File": "../../../Engine/Plugins/Marketplace/AutoSizeComments/AutoSizeComments.uplugin",
-			"Descriptor": 
-			{
-				"FileVersion": 3,
-				"Version": 1,
-				"VersionName": "3.0.6",
-				"FriendlyName": "AutoSizeComments",
-				"Description": "Comment boxes that auto resize to fit the nodes inside",
-				"Category": "Editor",
-				"CreatedBy": "fpwong",
-				"CreatedByURL": "https://fpwong.github.io/",
-				"DocsURL": "",
-				"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3",
-				"SupportURL": "https://forums.unrealengine.com/community/released-projects/1540542",
-				"EngineVersion": "4.27.0",
-				"CanContainContent": false,
-				"Installed": true,
-				"Modules": [
-					{
-						"Name": "AutoSizeComments",
-						"Type": "EditorNoCommandlet",
-						"LoadingPhase": "Default",
-						"WhitelistPlatforms": [
-							"Win64",
-							"Mac",
-							"Linux"
-						],
-						"WhitelistTargets": [
-							"Editor"
 						]
 					}
 				]

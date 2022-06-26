@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProyectoX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C0DCD063-EDE7-473F-BC4D-64967B2A632C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProyectoX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProyectoXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Fighter_Animations.png" />
+    <None Include="..\..\Tropical_Jungle_Pack.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{84CE7391-A737-4B56-A026-FD212F2B7C38}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProyectoX">
+      <UniqueIdentifier>{54B0E7BF-726A-4096-B383-5B3C1D498752}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProyectoX\MyCharacter.cpp">
+      <Filter>Source\ProyectoX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProyectoX\MyCharacter.h">
+      <Filter>Source\ProyectoX</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProyectoX\ProyectoX.Build.cs">
+      <Filter>Source\ProyectoX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProyectoX\ProyectoX.cpp">
+      <Filter>Source\ProyectoX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProyectoX\ProyectoX.h">
+      <Filter>Source\ProyectoX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

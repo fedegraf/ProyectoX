@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProyectoX.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\ProyectoXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\MyCharacter.cpp.obj"
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\ProyectoX.cpp.obj"
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\MyCharacter.gen.cpp.obj"
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\ProyectoX.init.gen.cpp.obj"
+"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\Default.rc2.res"
+/OUT:"H:\GitHub\ProyectoX\ProyectoX\Intermediate\Build\Win64\UE4Editor\Development\ProyectoX\UE4Editor-ProyectoX.lib"

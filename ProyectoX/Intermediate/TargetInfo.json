@@ -1,19 +1,14 @@
 {
 	"Targets": [
 		{
-			"Name": "UnrealHeaderTool",
-			"Path": "D:\\UE4\\UE_4.27\\Engine\\Source\\Programs\\UnrealHeaderTool\\UnrealHeaderTool.Target.cs",
-			"Type": "Program"
-		},
-		{
-			"Name": "UE4Editor",
-			"Path": "D:\\UE4\\UE_4.27\\Engine\\Source\\UE4Editor.Target.cs",
-			"Type": "Editor"
-		},
-		{
-			"Name": "UE4Game",
-			"Path": "D:\\UE4\\UE_4.27\\Engine\\Source\\UE4Game.Target.cs",
+			"Name": "ProyectoX",
+			"Path": "H:\\GitHub\\ProyectoX\\ProyectoX\\Source\\ProyectoX.Target.cs",
 			"Type": "Game"
+		},
+		{
+			"Name": "ProyectoXEditor",
+			"Path": "H:\\GitHub\\ProyectoX\\ProyectoX\\Source\\ProyectoXEditor.Target.cs",
+			"Type": "Editor"
 		}
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\GitHub\\ProyectoX\\ProyectoX\\Source\\ProyectoX\\ProyectoX.Build.cs",
+		"H:\\GitHub\\ProyectoX\\ProyectoX\\Source\\ProyectoX.Target.cs",
+		"H:\\GitHub\\ProyectoX\\ProyectoX\\Source\\ProyectoXEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
